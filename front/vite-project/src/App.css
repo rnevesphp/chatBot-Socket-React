@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.card-title {
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 22rem;
+  height: 15rem;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+.true {
+  color: chartreuse;
+}
+
+.false {
+  color: red;
+}
